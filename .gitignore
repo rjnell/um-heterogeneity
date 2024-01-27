@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.tsv
+*.txt
+data*
+tmp*
+*.png
+calculations.R
